@@ -3,7 +3,7 @@
 - 😊 I’m Md Shahajada Hossain Hridoy
 - 👨‍🎓 I’m an engineering student. 
 - 👀 I'm interested in web development.
-- 🌱 I’m currently learning react, wordpress.
+- 🌱 I’m currently learning php & javascript.
 - 💞️ I’m looking to collaborate on web related work.
 - 📫 How to reach me 
 mshhridoy10@gmail.com.
