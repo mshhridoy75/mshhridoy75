@@ -33,8 +33,16 @@ To expand my problem-solving toolkit by taking on complex projects.
 📫 Let’s Connect:
 Have an idea or a project you'd like to discuss? Feel free to reach out via LinkedIn or drop me a message on GitHub. I'm always eager to collaborate on impactful and dynamic web projects!
 
-Skills: HTML / CSS/ JS / PHP / MySQL / Wordpress
+## 💻 Tools & Technology
 
+[![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)  
+[![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)  
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)  
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)  
+[![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=white)](#)  
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0078D7)](#)  
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mshhridoy75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mshhridoy75//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61564624411428)  
