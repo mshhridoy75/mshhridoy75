@@ -41,6 +41,7 @@ Have an idea or a project you'd like to discuss? Feel free to reach out via Link
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)  
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)  
 [![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=white)](#)  
+[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)  
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0078D7)](#)  
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)  
