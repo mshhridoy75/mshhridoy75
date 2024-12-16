@@ -48,6 +48,7 @@ Have an idea or a project you'd like to discuss? Feel free to reach out via Link
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0078D7)](#)  [![NetBeans Badge](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&labelColor=black&logo=apachenetbeanside&logoColor=1B6AC6)](#)  [![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)](#)  
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)  
 
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mshhridoy75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mshhridoy75//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61564624411428)  
 
