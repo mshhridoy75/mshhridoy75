@@ -4,7 +4,7 @@
 
 - # Hi Everyone 👋
 
-- 😊 I’m Md Shahajada Hossain Hridoy
+- 😊 I’m Md. Shahajada Hossain Hridoy
 - 💻 I’m currently working on Byte Care Ltd.
 - 👨‍🎓 I’m an engineering graduate. 
 - 👀 I'm interested in web development.
