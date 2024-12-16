@@ -1,5 +1,7 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHPm4cSffmnYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733309928024?e=1739404800&v=beta&t=syY2QclbDgtIq1G5WGx86AITRc0iRc2s0h3RS9_6S_E)
 
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
 - # Hi Everyone 👋
 
 - 😊 I’m Md Shahajada Hossain Hridoy
@@ -11,6 +13,7 @@
 - 📫 How to reach me 
 mshhridoy10@gmail.com.
 
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 # About Me
 I'm a freelance web developer passionate about building clean, functional, and visually appealing websites. With a strong foundation in web technologies and a keen eye for detail, I excel at crafting user-friendly experiences and fixing issues to ensure optimal performance.
@@ -33,6 +36,8 @@ To stay ahead of the curve with the latest web technologies.
 To expand my problem-solving toolkit by taking on complex projects.
 📫 Let’s Connect:
 Have an idea or a project you'd like to discuss? Feel free to reach out via LinkedIn or drop me a message on GitHub. I'm always eager to collaborate on impactful and dynamic web projects!
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ## 💻 Tools & Technology
 
