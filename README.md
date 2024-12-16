@@ -1,3 +1,5 @@
+![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHPm4cSffmnYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733309928024?e=1739404800&v=beta&t=syY2QclbDgtIq1G5WGx86AITRc0iRc2s0h3RS9_6S_E)
+
 - # Hi Everyone 👋
 
 - 😊 I’m Md Shahajada Hossain Hridoy
@@ -10,7 +12,7 @@
 mshhridoy10@gmail.com.
   
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHPm4cSffmnYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733309928024?e=1739404800&v=beta&t=syY2QclbDgtIq1G5WGx86AITRc0iRc2s0h3RS9_6S_E)
+
 
 # About Me
 I'm a freelance web developer passionate about building clean, functional, and visually appealing websites. With a strong foundation in web technologies and a keen eye for detail, I excel at crafting user-friendly experiences and fixing issues to ensure optimal performance.
