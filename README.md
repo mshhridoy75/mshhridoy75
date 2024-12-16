@@ -10,8 +10,6 @@
 - 💞️ I’m looking to collaborate on web-related work.
 - 📫 How to reach me 
 mshhridoy10@gmail.com.
-  
-#### Web Developer
 
 
 # About Me
