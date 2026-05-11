@@ -8,7 +8,7 @@
 - 💻 I’m currently working on Byte Care Ltd.
 - 👨‍🎓 I’m an engineering graduate. 
 - 👀 I'm interested in web development.
-- 🌱 I’m currently learning PHP & javascript.
+- 🌱 I’m currently learning new things.
 - 💞️ I’m looking to collaborate on web-related work.
 - 📫 How to reach me 
 mshhridoy10@gmail.com.
